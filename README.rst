@@ -1,11 +1,11 @@
 ITKBertelstenRegistration
 =================================
 
-.. |CircleCI| image:: https://circleci.com/gh/InsightSoftwareConsortium/ITKBertelstenRegistration.svg?style=shield
-    :target: https://circleci.com/gh/InsightSoftwareConsortium/ITKBertelstenRegistration
+.. |CircleCI| image:: https://circleci.com/gh/Besler/ITKBertelstenRegistration.svg?style=shield
+    :target: https://circleci.com/gh/Besler/ITKBertelstenRegistration
 
-.. |TravisCI| image:: https://travis-ci.org/InsightSoftwareConsortium/ITKBertelstenRegistration.svg?branch=master
-    :target: https://travis-ci.org/InsightSoftwareConsortium/ITKBertelstenRegistration
+.. |TravisCI| image:: https://travis-ci.org/Besler/ITKBertelstenRegistration.svg?branch=master
+    :target: https://travis-ci.org/Besler/ITKBertelstenRegistration
 
 .. |AppVeyor| image:: https://img.shields.io/appveyor/ci/Besler/itkbertelstenregistration.svg
     :target: https://ci.appveyor.com/project/Besler/itkbertelstenregistration
